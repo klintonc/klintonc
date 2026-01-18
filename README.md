@@ -23,9 +23,3 @@
     </tr>
   </tbody>
 </table>
-
-### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klintonc&layout=compact&theme=blue-green)
-
-### GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=klintonc&theme=blue-green)
